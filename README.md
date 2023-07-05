@@ -7,6 +7,9 @@ If you want to run this application without docker then
 ### npm install
 ### npm run start
 
+Run this applicaiton in 3000 port in browser like below:
+http://localhost:3000
+
 Homepage: 
 ![Screenshot 2023-07-06 03 08 01](https://github.com/nadimsajib/react-news-app/assets/6728894/458fa10d-ddcc-4cb8-a490-54e5b60efa16)
 
